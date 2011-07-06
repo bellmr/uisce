@@ -1,0 +1,2 @@
+module MalcolmHelper
+end
