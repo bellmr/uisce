@@ -1,6 +1,6 @@
 class MalcolmController < ApplicationController
     def index
-        render :text => "Hello World!"
+        #render :text => "Hello World!"
 #	Bill.get_row_num
 #	@isblank = Bill.put_info
 #	Bill.get_row_num
